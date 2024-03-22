@@ -1,5 +1,8 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Ermiyas-Aynetaw)
 <h1 align="center">Hi 👋, I'm Ermiyas Aynetaw</h1>
 <h3 align="center">Python Full Stack Developer | Django | Bootstrap & React | AWS & Azure Certified</h3>
+
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_14yAwskliwGXY6_PHhNgdFHMe3BUPM__Vz5qnAugeu0jn3CGFSNJhV9CrI1BgIloLDI&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiyas-aynetaw&label=Profile%20views&color=0e75b6&style=flat" alt="ermiyas-aynetaw" /> </p>
 
